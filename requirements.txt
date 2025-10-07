@@ -1,0 +1,8 @@
+streamlit
+random
+langchain
+ChatHuggingFace
+Dotenv
+PromptTemplate
+HumanMessage
+HuggingFaceEndpoint
