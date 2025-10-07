@@ -1,8 +1,5 @@
 streamlit
-random
-langchain
-ChatHuggingFace
-Dotenv
-PromptTemplate
-HumanMessage
-HuggingFaceEndpoint
+langchain-core
+langchain-huggingface
+python-dotenv
+huggingface-hub
