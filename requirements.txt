@@ -3,3 +3,4 @@ langchain-core
 langchain-huggingface
 python-dotenv
 huggingface-hub
+langchain
