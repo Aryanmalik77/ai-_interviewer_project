@@ -12,7 +12,7 @@ st.write("Answer AI interview Questions and It will give instant feedback and sc
 llm= HuggingFaceEndpoint(
     repo_id = "deepseek-ai/DeepSeek-V3.2-Exp",
     task = "text-generation",
-    huggingfacehub_api_token="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"
+    huggingfacehub_api_token="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"
 )
 model = ChatHuggingFace(llm=llm)
 
@@ -71,4 +71,5 @@ else:
     st.write(response)
     feedback = response.content.strip()
     st.write(feedback)
+
 
